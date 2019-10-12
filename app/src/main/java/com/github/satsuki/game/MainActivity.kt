@@ -1,4 +1,4 @@
-package com.github.satsuki.game
+package com.mahjongsoul.game
 
 import android.annotation.SuppressLint
 import android.content.Intent

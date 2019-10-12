@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">AndroidWebGame</string>
+    <string name="app_name">雀魂 -じゃんたま-</string>
     <string name="app_scheme">https</string>
-    <string name="app_host">github.com</string>
-    <string name="app_path">/u1-liquid/AndroidWebGame/</string>
+    <string name="app_host">game.mahjongsoul.com</string>
+    <string name="app_path">/</string>
     <string name="app_ua">Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.44 Mobile Safari/537.36</string>
 </resources>
